@@ -11,6 +11,7 @@ This application allows candidates from Romania the possibility to offer reviews
 * management;
 * internal systems (procedures, values, way of working);
 * other relevant areas;
+
 The aim of this product is to help candidates find the employer that best suits their needs and personality, using our personality test.
 
 ## Development
